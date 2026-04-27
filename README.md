@@ -1,18 +1,11 @@
-# 📦 تحليل مخزون صيدليات النهدي (الإمارات)
+# Logistics & Inventory Analytics Portfolio 📊
 
-### 🚀 ملخص المشروع:
-مشروع احترافي لتحليل أداء المخزون باستخدام لغة **Python**. قمت بمعالجة بيانات أكثر من **5000 صنف** استراتيجي لتحسين كفاءة سلاسل الإمداد.
+This repository contains data analysis projects for supply chain optimization.
 
-### 📊 أهم النتائج (Key Insights):
-- **قيمة المخزون المحلل:** تجاوزت **316 مليون درهم إماراتي**.
-- **منهجية العمل:** تصنيف المنتجات باستخدام **ABC Analysis** (الفئة A للأكثر قيمة).
-- **توزيع الموردين:** تحديد الموردين الاستراتيجيين بناءً على حجم وقيمة الأصناف.
+### 1. Starbucks Inventory Analysis ☕
+- **Focus:** ABC-VED Matrix, ROP, and Supplier Risk.
+- [View Project Details](./Starbucks_Analysis)
 
-### 📁 المرفقات:
-- ملف **Excel** يحتوي على التصنيفات الكاملة.
-- رسوم بيانية توضح توزيع فئات ABC وحصة كبار الموردين.
-
----
-*تم إنجاز هذا العمل باستخدام أدوات تحليل البيانات المتقدمة (Pandas, Matplotlib).*
-# Logistics-Data-Analysis
- "Analyzing inventory and sales data using Python". 
+### 2. Nahdi Pharmacy Inventory (UAE) 💊
+- **Focus:** Stock distribution and category management.
+- [View Project Details](./Nahdi_Analysis)
